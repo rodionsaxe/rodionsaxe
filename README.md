@@ -1,5 +1,4 @@
-![rodya](https://github.com/rodionsaxe/rodionsaxe/blob/main/Untitled84_20260415200449.png)
-<img src="[https://github.com/rodionsaxe/rodionsaxe/blob/main/Untitled84_20260415200449.png]" width="100">
+<img src="Untitled84_20260415200449.png" width="600" height="600">
 
 
 <!--
