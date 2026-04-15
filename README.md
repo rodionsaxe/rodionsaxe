@@ -1,4 +1,4 @@
-![Uploading Untitled84_20260415200449.png…]()
+![rodyaa](https://github.com/rodionsaxe/rodionsaxe/blob/main/Untitled84_20260415200449.png)
 
 
 <!--
