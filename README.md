@@ -1,4 +1,4 @@
-![rodyaa](https://github.com/rodionsaxe/rodionsaxe/blob/main/Untitled84_20260415200449.png)
+![rodya](https://github.com/rodionsaxe/rodionsaxe/blob/main/Untitled84_20260415200449.png)
 
 
 <!--
