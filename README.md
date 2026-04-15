@@ -1,5 +1,5 @@
-<img src="Untitled84_20260415200449.png" width="500" height="500"> <p align="center">
-
+<p align="center">
+<img src="Untitled84_20260415200449.png" width="500" height="500">
 
 <!--
 **rodionsaxe/rodionsaxe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
